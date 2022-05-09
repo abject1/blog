@@ -1,0 +1,19 @@
+.container-error {
+    .underline-error {
+        background-color: black;
+        height: 5px;
+        width: 90vw;
+        display: block;
+        margin: 1.4rem auto 0.4rem auto;
+    }
+    h2 {
+        text-align: center;
+        color: red;
+        margin: 0.2rem auto;
+    }
+    h5 {
+        text-align: center;
+        color: darkred;
+        margin: 0.2rem auto;
+    }
+}

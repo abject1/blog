@@ -2,14 +2,14 @@
 
 :root {
     /* FONT */
-    // @font-face {
-    //     font-family: "font-1";
-    //     src: url(../assets/fonts/RobotoSlab.ttf);
-    // }
-    // @font-face {
-    //     font-family: "font-2";
-    //     src: url(../assets/fonts/BIZUDPMincho.ttf);
-    // }
+    @font-face {
+        font-family: "font-2";
+        src: url(../assets/font/Lato-Black.ttf);
+    }
+    @font-face {
+        font-family: "font-1";
+        src: url(../assets/font/RobotoFlex-Regular.ttf);
+    }
 
     /* TITLE */
     --title-font: 'font-2', sans-serif;

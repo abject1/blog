@@ -1,0 +1,30 @@
+.about-container {
+    h3 {
+        text-align: center;
+        margin: 1rem auto 0.2rem auto;
+    }
+    .underline-about {
+        background-color: aqua;
+        height: 5px;
+        width: 60vw;
+        display: block;
+        margin: auto;
+    }
+    p {
+        text-align: center;
+    }
+    .next {
+        display: block;
+        margin: auto;
+        background-color: white;
+        color: darkblue;
+        border: var(--borderClassicBlack);
+        border-radius: var(--borderRadiusClassic);
+    }
+    .second-text {
+        display: none;
+    }
+    .seen-second-text {
+        display: block;
+    }
+}
